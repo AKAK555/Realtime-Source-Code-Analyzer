@@ -9,4 +9,8 @@ langchain-community
 langgraph 
 pydantic 
 langsmith
+sentence-transformers
+langchain-huggingface
+langchain-groq
+
 -e .
