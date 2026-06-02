@@ -1,5 +1,4 @@
-openai
-tiktoken 
+langchain-chroma
 chromadb
 flask
 GitPython
@@ -12,5 +11,7 @@ langsmith
 sentence-transformers
 langchain-huggingface
 langchain-groq
+langchain-core
+langchain-text-splitters
 
 -e .
