@@ -1,0 +1,11 @@
+openai
+tiktoken 
+chromadb
+flask
+GitPython
+python-dotenv
+langchain 
+langchain-community 
+langgraph 
+pydantic 
+langsmith
